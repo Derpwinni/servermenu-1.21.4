@@ -1,10 +1,10 @@
 # ServerMenu
 
 ![GitHub License](https://img.shields.io/github/license/YourUsername/ServerMenu)
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.x-brightgreen)
 ![Fabric API](https://img.shields.io/badge/Fabric%20API-Required-blue)
 
-A lightweight Fabric mod for Minecraft 1.21.4 that enhances the multiplayer server list by remembering your scroll position and selected server. Perfect for players who frequently switch between servers!
+A lightweight Fabric mod for Minecraft 1.21.x that enhances the multiplayer server list by remembering your scroll position and selected server. Perfect for players who frequently switch between servers!
 
 ## 🚀 Features
 
@@ -16,7 +16,7 @@ A lightweight Fabric mod for Minecraft 1.21.4 that enhances the multiplayer serv
 
 ## 📋 Requirements
 
-- Minecraft 1.21.4
+- Minecraft 1.21.x
 - Fabric Loader >=0.16.14
 - Fabric API
 - Java 21 or higher
