@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "servermenu",
+	"version": "${version}",
+	"name": "ServerMenu",
+	"description": "Makes the Multiplayer screen remember scroll position and selected server",
+	"authors": [
+		"Kevin"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/servermenu/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"com.kevin.server.ServerMenuMod"
+		],
+		"client": [
+			"com.kevin.server.ServerMenuClient"
+		]
+	},
+	"mixins": [
+		"servermenu.mixins.json",
+		{
+			"config": "servermenu.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {}
+}

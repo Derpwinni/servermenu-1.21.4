@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.kevin.server.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"MultiplayerScreenMixin",
+		"ScreenAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
