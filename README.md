@@ -1,6 +1,5 @@
 # ServerMenu
 
-![GitHub License](https://img.shields.io/github/license/Derpwinni/servermenu-1.21.4)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.x-brightgreen)
 ![Fabric API](https://img.shields.io/badge/Fabric%20API-Required-blue)
 
