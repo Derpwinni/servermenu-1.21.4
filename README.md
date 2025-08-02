@@ -24,7 +24,7 @@ A lightweight Fabric mod for Minecraft 1.21.x that enhances the multiplayer serv
 ## 💾 Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/use/) and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-2. Download the latest ServerMenu mod JAR from the [Releases](https://github.com/YourUsername/ServerMenu/releases) page
+2. Download the latest ServerMenu mod JAR from the [Releases](https://github.com/Derpwinni/servermenu-1.21.4/releases) page
 3. Place the JAR file in your Minecraft `mods` folder
 4. Launch Minecraft with the Fabric profile and enjoy!
 
@@ -36,7 +36,7 @@ A lightweight Fabric mod for Minecraft 1.21.x that enhances the multiplayer serv
 
 ## 🧩 Compatibility
 
-ServerMenu is designed to be compatible with most other Fabric mods. If you encounter any compatibility issues, please report them on the [Issues](https://github.com/YourUsername/ServerMenu/issues) page.
+ServerMenu is designed to be compatible with most other Fabric mods. If you encounter any compatibility issues, please report them on the [Issues](https://github.com/Derpwinni/servermenu-1.21.4) page.
 
 ## 🔧 For Developers
 
