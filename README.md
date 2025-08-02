@@ -1,6 +1,6 @@
 # ServerMenu
 
-![GitHub License](https://img.shields.io/github/license/YourUsername/ServerMenu)
+![GitHub License](https://img.shields.io/github/license/Derpwinni/servermenu-1.21.4)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.x-brightgreen)
 ![Fabric API](https://img.shields.io/badge/Fabric%20API-Required-blue)
 
@@ -43,7 +43,7 @@ ServerMenu is designed to be compatible with most other Fabric mods. If you enco
 ### Building from Source
 
 ```bash
-git clone https://github.com/YourUsername/ServerMenu.git
+git clone https://github.com/Derpwinni/servermenu-1.21.4.git
 cd ServerMenu
 ./gradlew build
 ```
