@@ -36,7 +36,7 @@ A lightweight Fabric mod for Minecraft 1.21.x that enhances the multiplayer serv
 
 ## 🧩 Compatibility
 
-ServerMenu is designed to be compatible with most other Fabric mods. If you encounter any compatibility issues, please report them on the [Issues](https://github.com/Derpwinni/servermenu-1.21.4) page.
+ServerMenu is designed to be compatible with most other Fabric mods. If you encounter any compatibility issues, please report them on the [Issues](https://github.com/Derpwinni/servermenu-1.21.4/issues) page.
 
 ## 🔧 For Developers
 
